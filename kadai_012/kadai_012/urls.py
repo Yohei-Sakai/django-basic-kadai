@@ -1,5 +1,5 @@
 """
-URL configuration for kadai_010 project.
+URL configuration for kadai_012 project.
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/5.1/topics/http/urls/
